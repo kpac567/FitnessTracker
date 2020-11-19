@@ -28,30 +28,22 @@ The user should be able to:
 - [Description](#Description)
 - [Usage](#Usage)
 - [Licence](#Licence)
-- [Contributors](#Contributors)
-- [Test](#Test)
 - [Repository Link](#Repository)
 
 ## Usage
 
-Go to [Workout Tracker](https://workout-tracker1200.herokuapp.com) and save your workouts
+Go to [Workout Tracker](https://fitnesstrk.herokuapp.com) and save your workouts
 
 ## Licence
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Contributors
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40hoffman1200-orange)
-
-## Test
-
-![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
 
 ## Repository
 
-- [Project Repo](https://github.com/hoffman1200/Homework-17)
-- [Workout Tracker](https://workout-tracker1200.herokuapp.com)
+- [Project Repo](https://github.com/kpac567/FitnessTracker)
+- [Workout Tracker](https://fitnesstrk.herokuapp.com)
 
 
