@@ -1,8 +1,5 @@
 # Unit 17 Nosql Homework: Workout Tracker
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40hoffman1200-orange)
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Description 
 
 This is a Workout Tracker using a Nosql database.
