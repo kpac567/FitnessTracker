@@ -31,7 +31,6 @@ The user should be able to:
 - [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repository)
-- [GitHub Info](#GitHub) 
 
 ## Usage
 
@@ -55,8 +54,4 @@ Go to [Workout Tracker](https://workout-tracker1200.herokuapp.com) and save your
 - [Project Repo](https://github.com/hoffman1200/Homework-17)
 - [Workout Tracker](https://workout-tracker1200.herokuapp.com)
 
-## GitHub
 
-![Image of me](https://avatars1.githubusercontent.com/u/61527225?v=4)
-- Fernando Soto
-- [GitHub Profile](https://github.com/hoffman1200)
