@@ -13,7 +13,8 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
+const MONGODB_URI = "mongodb+srv://doyle337:redrum33@cluster0.34awe.mongodb.net/<dbname>?retryWrites=true&w=majority"
+mongoose.connect(MONGODB_URI || "mngodb://localhost/fitness", {
   useNewUrlParser: true,
   useFindAndModify: false
 
